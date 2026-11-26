@@ -87,13 +87,11 @@ This platform will address this problem by providing one central place for stude
 
 ## 7.  User Stories
         What Students Want:
-        * 15 students want to view restaurant menus
-        * 16 students want to order food in advance
-        * 15 students want to make payments online
-        * 17 students want to track order preparation
-        * 19 students want to receive notifications when food is ready
-        * 18 students want to choose a pickup time
-        * 17 students want to view food prices        
+            *As a student, I want to create an account so that I can access the marketplace.
+            *As a seller, I want to upload a menu so that students can discover it.
+            *As a student, I want to search by category so that I can find what I need.
+            *As a student, I want to contact a seller so that I can ask questions before purchasing.
+            *As a seller, I want to mark a product as sold so that buyers know it is unavailable.
 
 ## 8. Functional Requirements
 
