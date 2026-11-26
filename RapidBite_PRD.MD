@@ -141,8 +141,8 @@ This platform will address this problem by providing one central place for stude
         ### 2.Food Vendors
         Acceptance Criteria:
 
-        * The lecturer can log in.
-        * The lecturer can upload menus.
+        * The Food Vendors can log in.
+        * The Food Vendors can upload menus.
         * Menus can be reviewed and approved.
         * Students can access the menus after approval.
         
